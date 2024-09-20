@@ -1,5 +1,5 @@
 # Pusula-Talent-Academy
-#Data Science Intern Case Study
+Data Science Intern Case Study
 
 e-mail için: kucukkebru@gmail.com
 Ben yeni mezun Bilgisayar Mühendisi Ebru Küçük. 
